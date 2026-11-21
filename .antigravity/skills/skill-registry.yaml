@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: south-korean-restitution-roadmap-and-qsf-trust-execution
-  name: South Korean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/south-korean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kr_001
+    name: South Korea Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_002
+    name: South Korea Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_003
+    name: South Korea Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_004
+    name: South Korea Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_005
+    name: South Korea Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_006
+    name: South Korea Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_007
+    name: South Korea Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_008
+    name: South Korea Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_009
+    name: South Korea Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_010
+    name: South Korea Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_011
+    name: South Korea Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_012
+    name: South Korea Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_013
+    name: South Korea Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_014
+    name: South Korea Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_015
+    name: South Korea Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_016
+    name: South Korea Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_017
+    name: South Korea Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_018
+    name: South Korea Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_019
+    name: South Korea Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_020
+    name: South Korea Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_021
+    name: South Korea Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_022
+    name: South Korea Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_023
+    name: South Korea Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_024
+    name: South Korea Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_025
+    name: South Korea Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_026
+    name: South Korea Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_027
+    name: South Korea Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_028
+    name: South Korea Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_029
+    name: South Korea Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_030
+    name: South Korea Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_031
+    name: South Korea Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_032
+    name: South Korea Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_033
+    name: South Korea Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_034
+    name: South Korea Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_035
+    name: South Korea Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_036
+    name: South Korea Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_037
+    name: South Korea Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_038
+    name: South Korea Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_039
+    name: South Korea Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_040
+    name: South Korea Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_041
+    name: South Korea Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_042
+    name: South Korea Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_043
+    name: South Korea Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_044
+    name: South Korea Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_045
+    name: South Korea Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_046
+    name: South Korea Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_047
+    name: South Korea Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_048
+    name: South Korea Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_049
+    name: South Korea Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_050
+    name: South Korea Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_051
+    name: South Korea Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_052
+    name: South Korea Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_053
+    name: South Korea Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_054
+    name: South Korea Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_055
+    name: South Korea Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_056
+    name: South Korea Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_057
+    name: South Korea Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_058
+    name: South Korea Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_059
+    name: South Korea Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_060
+    name: South Korea Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_061
+    name: South Korea Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_062
+    name: South Korea Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_063
+    name: South Korea Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_064
+    name: South Korea Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_065
+    name: South Korea Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_066
+    name: South Korea Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_067
+    name: South Korea Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_068
+    name: South Korea Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_069
+    name: South Korea Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_070
+    name: South Korea Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_071
+    name: South Korea Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_072
+    name: South Korea Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_073
+    name: South Korea Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_074
+    name: South Korea Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_075
+    name: South Korea Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_076
+    name: South Korea Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_077
+    name: South Korea Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_078
+    name: South Korea Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_079
+    name: South Korea Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_080
+    name: South Korea Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_081
+    name: South Korea Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_082
+    name: South Korea Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_083
+    name: South Korea Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_084
+    name: South Korea Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_085
+    name: South Korea Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_086
+    name: South Korea Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_087
+    name: South Korea Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_088
+    name: South Korea Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_089
+    name: South Korea Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_090
+    name: South Korea Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_091
+    name: South Korea Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_092
+    name: South Korea Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_093
+    name: South Korea Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_094
+    name: South Korea Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_095
+    name: South Korea Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_096
+    name: South Korea Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_097
+    name: South Korea Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_098
+    name: South Korea Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_099
+    name: South Korea Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_100
+    name: South Korea Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_101
+    name: South Korea Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_102
+    name: South Korea Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_103
+    name: South Korea Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_104
+    name: South Korea Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_105
+    name: South Korea Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_106
+    name: South Korea Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_107
+    name: South Korea Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_108
+    name: South Korea Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_109
+    name: South Korea Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_110
+    name: South Korea Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_111
+    name: South Korea Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_112
+    name: South Korea Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_113
+    name: South Korea Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_114
+    name: South Korea Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_115
+    name: South Korea Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_116
+    name: South Korea Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_117
+    name: South Korea Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_118
+    name: South Korea Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_119
+    name: South Korea Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_120
+    name: South Korea Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_121
+    name: South Korea Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_122
+    name: South Korea Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_123
+    name: South Korea Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_124
+    name: South Korea Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_125
+    name: South Korea Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_126
+    name: South Korea Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_127
+    name: South Korea Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_128
+    name: South Korea Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_129
+    name: South Korea Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_130
+    name: South Korea Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_131
+    name: South Korea Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_132
+    name: South Korea Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_133
+    name: South Korea Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_134
+    name: South Korea Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_135
+    name: South Korea Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_136
+    name: South Korea Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_137
+    name: South Korea Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_138
+    name: South Korea Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_139
+    name: South Korea Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_140
+    name: South Korea Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_141
+    name: South Korea Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_142
+    name: South Korea Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_143
+    name: South Korea Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_144
+    name: South Korea Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_145
+    name: South Korea Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_146
+    name: South Korea Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_147
+    name: South Korea Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_148
+    name: South Korea Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_149
+    name: South Korea Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_150
+    name: South Korea Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_151
+    name: South Korea Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_152
+    name: South Korea Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_153
+    name: South Korea Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_154
+    name: South Korea Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_155
+    name: South Korea Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_156
+    name: South Korea Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_157
+    name: South Korea Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_158
+    name: South Korea Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_159
+    name: South Korea Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_160
+    name: South Korea Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_161
+    name: South Korea Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_162
+    name: South Korea Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_163
+    name: South Korea Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_164
+    name: South Korea Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_165
+    name: South Korea Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_166
+    name: South Korea Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_167
+    name: South Korea Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_168
+    name: South Korea Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_169
+    name: South Korea Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_170
+    name: South Korea Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_171
+    name: South Korea Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_172
+    name: South Korea Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_173
+    name: South Korea Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_174
+    name: South Korea Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_175
+    name: South Korea Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_176
+    name: South Korea Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_177
+    name: South Korea Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_178
+    name: South Korea Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_179
+    name: South Korea Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_180
+    name: South Korea Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_181
+    name: South Korea Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_182
+    name: South Korea Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_183
+    name: South Korea Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_184
+    name: South Korea Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_185
+    name: South Korea Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_186
+    name: South Korea Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_187
+    name: South Korea Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_188
+    name: South Korea Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_189
+    name: South Korea Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_190
+    name: South Korea Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_191
+    name: South Korea Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_192
+    name: South Korea Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_193
+    name: South Korea Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_194
+    name: South Korea Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_195
+    name: South Korea Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_196
+    name: South Korea Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_197
+    name: South Korea Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_198
+    name: South Korea Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_199
+    name: South Korea Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_200
+    name: South Korea Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_201
+    name: South Korea Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_202
+    name: South Korea Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_203
+    name: South Korea Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_204
+    name: South Korea Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_205
+    name: South Korea Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_206
+    name: South Korea Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_207
+    name: South Korea Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_208
+    name: South Korea Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_209
+    name: South Korea Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_210
+    name: South Korea Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_211
+    name: South Korea Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_212
+    name: South Korea Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_213
+    name: South Korea Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_214
+    name: South Korea Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_215
+    name: South Korea Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_216
+    name: South Korea Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_217
+    name: South Korea Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_218
+    name: South Korea Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_219
+    name: South Korea Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_220
+    name: South Korea Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_221
+    name: South Korea Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_222
+    name: South Korea Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_223
+    name: South Korea Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_224
+    name: South Korea Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_225
+    name: South Korea Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_226
+    name: South Korea Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_227
+    name: South Korea Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_228
+    name: South Korea Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_229
+    name: South Korea Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_230
+    name: South Korea Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_231
+    name: South Korea Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_232
+    name: South Korea Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_233
+    name: South Korea Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_234
+    name: South Korea Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_235
+    name: South Korea Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_236
+    name: South Korea Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_237
+    name: South Korea Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_238
+    name: South Korea Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_239
+    name: South Korea Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_240
+    name: South Korea Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_241
+    name: South Korea Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_242
+    name: South Korea Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_243
+    name: South Korea Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_244
+    name: South Korea Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_245
+    name: South Korea Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_246
+    name: South Korea Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_247
+    name: South Korea Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_248
+    name: South Korea Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_249
+    name: South Korea Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_250
+    name: South Korea Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_251
+    name: South Korea Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kr_252
+    name: South Korea Skill 252
+    status: ACTIVE_SCAFFOLD
