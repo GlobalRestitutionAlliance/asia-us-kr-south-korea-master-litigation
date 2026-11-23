@@ -1,0 +1,15 @@
+{
+  "url": "https://www.hrw.org/asia/south-korea",
+  "final_url": "https://www.hrw.org/asia/south-korea",
+  "title": "HRW - South Korea",
+  "fetched_at": "2026-11-23T14:20:55.354658Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 200513,
+  "sha256": "e9119d36b3cd7e75f3ce8b5cc4c35bc883fbfa8b63f3c5fbbd6c20e68fe111b3",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/south-korea/",
+  "final_url": "https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/south-korea/",
+  "title": "Amnesty - South Korea",
+  "fetched_at": "2026-11-23T14:20:56.081865Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 104880,
+  "sha256": "2eda2f728f151e742b3b8833eb956a3d79949f9c31ccb59b77ff58376fb1235a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication."
+}
